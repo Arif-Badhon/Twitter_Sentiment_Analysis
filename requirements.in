@@ -1,0 +1,11 @@
+numpy
+pandas
+tensorflow
+matplotlib
+emoji
+nltk
+scikit-learn
+transformers
+seaborn
+imblearn
+tf-keras
